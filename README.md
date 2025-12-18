@@ -28,6 +28,13 @@ It translates **sign language gestures into text in real time** using **IoT, AI,
 
 ---
 
+## Images 
+-![Image-1](images/Image1.jpeg)
+
+-![Image-1](images/Image2.jpeg)
+
+---
+
 ## 📊 Results  
 - ✅ Achieved **92% accuracy** with Random Forest model.  
 - ⚡ Real-time sign-to-text translation with minimal latency.  
